@@ -1,7 +1,3 @@
-@settings {
-  font-size: 100;
-}
-
 Este repositorio contiene una muestra pública de mi trabajo.
 
 Notebooks
